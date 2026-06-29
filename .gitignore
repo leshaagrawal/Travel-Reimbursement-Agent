@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# JetBrains IDE
+.idea/
+
+# Vector Database
+vector_db/
+
+# Streamlit Cache
+.streamlit/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# SQLite Database (if used)
+*.db
