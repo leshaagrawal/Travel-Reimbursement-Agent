@@ -1,0 +1,5 @@
+{
+    "auto_approval_limit": 10000,
+    "manager_approval_limit": 30000,
+    "finance_approval_limit": 999999
+}

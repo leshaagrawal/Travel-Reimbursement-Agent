@@ -1,0 +1,141 @@
+[
+    {
+        "claim_id": "CLM001",
+        "employee_id": "EMP001",
+        "employee_name": "Rahul Sharma",
+        "trip_id": "TRIP001",
+        "total_amount": 6400,
+        "expenses": [
+            {
+                "category": "Hotel",
+                "amount": 4500,
+                "vendor": "ABC Hotel",
+                "receipt_attached": true
+            },
+            {
+                "category": "Food",
+                "amount": 1200,
+                "vendor": "Spice Restaurant",
+                "receipt_attached": true
+            },
+            {
+                "category": "Taxi",
+                "amount": 700,
+                "vendor": "Uber",
+                "receipt_attached": true
+            }
+        ]
+    },
+    {
+        "claim_id": "CLM002",
+        "employee_id": "EMP002",
+        "employee_name": "Priya Singh",
+        "trip_id": "TRIP002",
+        "total_amount": 7000,
+        "expenses": [
+            {
+                "category": "Hotel",
+                "amount": 6200,
+                "vendor": "XYZ Hotel",
+                "receipt_attached": true
+            },
+            {
+                "category": "Food",
+                "amount": 800,
+                "vendor": "Cafe Coffee Day",
+                "receipt_attached": false
+            }
+        ]
+    },
+    {
+        "claim_id": "CLM003",
+        "employee_id": "EMP003",
+        "employee_name": "Amit Verma",
+        "trip_id": "TRIP003",
+        "total_amount": 35000,
+        "expenses": [
+            {
+                "category": "Hotel",
+                "amount": 25000,
+                "vendor": "Luxury Stay",
+                "receipt_attached": true
+            },
+            {
+                "category": "Taxi",
+                "amount": 10000,
+                "vendor": "Private Taxi",
+                "receipt_attached": true
+            }
+        ]
+    },
+    {
+        "claim_id": "CLM004",
+        "employee_id": "EMP004",
+        "employee_name": "Sneha Patel",
+        "trip_id": "TRIP004",
+        "total_amount": 1500,
+        "expenses": [
+            {
+                "category": "Food",
+                "amount": 1500,
+                "vendor": "Restaurant",
+                "receipt_attached": false
+            }
+        ]
+    },
+    {
+        "claim_id": "CLM005",
+        "employee_id": "EMP001",
+        "employee_name": "Rahul Sharma",
+        "trip_id": "TRIP001",
+        "total_amount": 6400,
+        "expenses": [
+            {
+                "category": "Hotel",
+                "amount": 4500,
+                "vendor": "ABC Hotel",
+                "receipt_attached": true
+            },
+            {
+                "category": "Food",
+                "amount": 1200,
+                "vendor": "Spice Restaurant",
+                "receipt_attached": true
+            },
+            {
+                "category": "Taxi",
+                "amount": 700,
+                "vendor": "Uber",
+                "receipt_attached": true
+            }
+        ]
+    },
+
+    {
+    "claim_id": "CLM006",
+    "employee_id": "EMP006",
+    "employee_name": "Rohan Mehta",
+    "trip_id": "TRIP006",
+    "total_amount": 17000,
+    "expenses": [
+        {
+            "category": "Hotel",
+            "amount": 15000,
+            "vendor": "Grand Palace Hotel",
+            "receipt_attached": true
+        },
+        {
+            "category": "Food",
+            "amount": 1000,
+            "vendor": "Restaurant",
+            "receipt_attached": true
+        },
+        {
+            "category": "Taxi",
+            "amount": 1000,
+            "vendor": "Uber",
+            "receipt_attached": true
+        }
+    ]
+}
+]

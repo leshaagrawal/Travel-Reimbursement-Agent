@@ -1,0 +1,42 @@
+[
+    {
+        "receipt_id": "REC001",
+        "vendor": "ABC Hotel",
+        "amount": 4500,
+        "category": "Hotel",
+        "date": "2026-06-10",
+        "attachment": true
+    },
+    {
+        "receipt_id": "REC002",
+        "vendor": "Spice Restaurant",
+        "amount": 1200,
+        "category": "Food",
+        "date": "2026-06-11",
+        "attachment": true
+    },
+    {
+        "receipt_id": "REC003",
+        "vendor": "Uber",
+        "amount": 700,
+        "category": "Taxi",
+        "date": "2026-06-11",
+        "attachment": true
+    },
+    {
+        "receipt_id": "REC004",
+        "vendor": "XYZ Hotel",
+        "amount": 6200,
+        "category": "Hotel",
+        "date": "2026-06-15",
+        "attachment": true
+    },
+    {
+        "receipt_id": "REC005",
+        "vendor": "Cafe Coffee Day",
+        "amount": 800,
+        "category": "Food",
+        "date": "2026-06-15",
+        "attachment": false
+    }
+]
